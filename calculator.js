@@ -17,7 +17,6 @@ function multiply(a, b){
   return a * b;
 }
 
-// ¡Esto es lo importante! Asegúrate de exportar **todas** las funciones:
 module.exports = {
   add,
   subtract,
